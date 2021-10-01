@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning "Everything" 🤣
 - 💞️ I’m looking to collaborate with other programmers and share knowledge.
 - 🐱‍👤 Fun fact: Black belt Karate programmer.
-- 🌻 2021 Goals: Contribute with Open Source projects and gain more experince.
+- 🌻 2021 Goals: Contribute with Open Source projects and gain more experience.
 
 ### How to reach me
 - 📫 E-mail : Ra3dkasem@gmail.com
