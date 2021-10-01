@@ -2,7 +2,7 @@
 - 👀 I’m interested in "Software Development from Zero To Hero".
 - 🌱 I’m currently learning "Everything" 🤣
 - 💞️ I’m looking to collaborate with other programmers and share knowledge.
-- 🐱‍👤 Fun fact: Black belt Karate programmer.
+- 🥋 Fun fact: Black belt Karate programmer.
 - 🌻 2021 Goals: Contribute with Open Source projects and gain more experience.
 
 ### How to reach me
@@ -28,6 +28,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </p>
 
+<br />
 <br />
 
 ### CMS:
