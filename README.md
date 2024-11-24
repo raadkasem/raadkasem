@@ -84,7 +84,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raadkasem&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raadkasem&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raadkasem&show_icons=true&theme=tokyonight)
 
