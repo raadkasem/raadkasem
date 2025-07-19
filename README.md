@@ -25,13 +25,13 @@
 - SQL & NoSQL Databases 🗄️
 
 #### Frameworks and Tools:
-- **Backend**: Laravel, FastAPI, Spring Boot
-- **Frontend**: React.js, React Native, Livewire 3
-- **CMS**: WordPress, Craft CMS, Laravel Active eCommerce
+- **Backend**: LangChain, LangGraph, Laravel, FastAPI, Spring Boot
+- **Frontend**: React.js, Livewire 3
+- **CMS**: Filament, WordPress, Craft CMS
 - **DevOps & Environments**: Docker, Nginx, Apache, Linux
 - **AI/ML**: TensorFlow, PyTorch, Hugging Face Transformers
 - **Drone Software**: ArduPilot (Copter), SkyBrush Tools for Drone Light Shows
-- **Others**: Filament 3, GraphQL, RabbitMQ, Redis, Git
+- **Others**: GraphQL, RabbitMQ, Redis, Git
 
 ---
 
