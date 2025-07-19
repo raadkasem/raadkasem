@@ -1,10 +1,10 @@
 ### Hi, I’m Raad - aka [Thunder ⚡]
 
 - 👀 I’m passionate about **Software Development**, **Artificial Intelligence**, and **Drone Technologies**, aiming to go from Zero to Hero while mastering backend, AI, and UAV technologies.
-- 🌱 I’m currently diving deeper into **Machine Learning (ML)**, **LLMs**, **RAG**, **Fine-tuning**, **Laravel**, **Python**, **React Native**, and **Drone Software**.
+- 🌱 I’m currently diving deeper into **Machine Learning (ML)**, **LLMs**, **RAG**, **Fine-tuning**, **Laravel**, **Python**, and **Drone Software**.
 - 💞️ I love collaborating with other developers, sharing knowledge, and contributing to the tech community.
 - 🥋 Fun fact: I’m a **Black Belt Karate Programmer**—applying discipline and focus to my code.
-- 🌟 **2024 Goals**: Build innovative solutions with AI, contribute to open-source projects, master UAV technologies, and mentor aspiring developers.
+- 🌟 **2025 Goals**: Build innovative solutions with AI, contribute to open-source projects, master UAV technologies, and mentor aspiring developers.
 
 ---
 
