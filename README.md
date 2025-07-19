@@ -9,7 +9,9 @@
 ---
 
 ### How to reach me:
-- 📫 E-mail: Ra3dkasem@gmail.com
+- 📫 E-mail: mail@raadkasem.dev
+- 📫 E-mail: ra3dkasem@gmail.com
+- 💻 Website: raadkasem.dev
 
 ---
 
