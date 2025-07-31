@@ -11,7 +11,7 @@
 ### How to reach me:
 - 📫 E-mail: mail@raadkasem.dev
 - 📫 E-mail: ra3dkasem@gmail.com
-- 💻 Website: raadkasem.dev
+- 💻 Website: https://raadkasem.dev
 
 ---
 
