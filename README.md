@@ -39,7 +39,6 @@
 - **Large Language Models (LLMs):** Proficient in working with modern LLMs for tasks like text generation, summarization, and NLP.
 - **Retrieval-Augmented Generation (RAG):** Experienced in integrating RAG pipelines for real-time, context-aware applications.
 - **Fine-tuning:** Skilled in fine-tuning pre-trained models for domain-specific applications using frameworks like Hugging Face.
-- **Machine Learning (ML):** Strong knowledge in building predictive models, handling datasets, and leveraging AI for problem-solving.
 - **ArduPilot (Copter):** Proficient in configuring and optimizing drone flight controllers for custom UAV solutions.
 - **SkyBrush Tools:** Expertise in using SkyBrush for creating and executing stunning drone light shows, including precision control and synchronization.
 
